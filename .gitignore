@@ -1,0 +1,13 @@
+SuperVars/Debug
+SuperVars/Release
+GTASA/Debug
+GTASA/Release
+*.sdf
+*.ilk
+*.pdb
+*.lib
+*.asi
+*.user
+*.aps
+*.suo
+ipch
